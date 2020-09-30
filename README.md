@@ -1,1 +1,1 @@
-# Python
+Python is an interpreted, high-level and general-purpose programming language. Created by Guido van Rossum and first released in 1991.It is used for Machine Learning,Data Science,Building Web Apps etc..
